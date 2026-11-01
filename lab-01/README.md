@@ -2,8 +2,7 @@
 
 **Name:** BACHU PRANAV SAI · **Registration number:** 252U1R9015 · **Section:** CSE - GEN-AI(304)
 
-**Live link:** PASTE PUBLIC URL HERE (or explain why it could not be deployed and add Postman screenshots)
-
+**Live link:** https://backend-labs-ph30.onrender.com/
 ## How to run
 
 ```bash
