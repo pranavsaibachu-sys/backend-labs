@@ -60,13 +60,13 @@ Success responses return the data or `{ "message": "..." }`. Every error returns
 
 ## Screenshots
 
-![GET with search, sort and limit](screenshots/get-search.jpeg)
-![GET with price range](screenshots/get-price-range.jpeg)
-![POST success 201](screenshots/post-201.jpeg)
-![POST validation error 400](screenshots/post-400.jpeg)
-![PUT](screenshots/put.jpeg)
-![Delete](screenshots/delete.jpeg)
-![404 not found](screenshots/not-found-404.jpeg)
+![GET with search, sort and limit](screenshots/get-search.png)
+![GET with price range](screenshots/get-price-range.png)
+![POST success 201](screenshots/post-201.png)
+![POST validation error 400](screenshots/post-400.png)
+![PUT](screenshots/put.png)
+![Delete](screenshots/delete.png)
+![404 not found](screenshots/not-found-404.png)
 
 ## Notes: viva answers
 
